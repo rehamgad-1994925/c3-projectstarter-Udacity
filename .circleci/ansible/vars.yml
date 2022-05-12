@@ -1,4 +1,0 @@
----
-postgres_root_user: postgres
-postgres_root_pass: udapeople123
-db_name: udapeople
